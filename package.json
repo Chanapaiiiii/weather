@@ -1,7 +1,7 @@
 {
   
-    "script": {
-      "start": "node index.js"
+    "scripts": {
+      "start": "node index.html"
     },
   
   "dependencies": {
